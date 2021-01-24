@@ -1,0 +1,18 @@
+{
+    "TEST_1": {
+        "element_type": "button",
+        "button_text": "TEST",
+        "size_height": 50,
+        "size_width": 50,
+        "visible": "True"
+
+    },
+
+    "TEST_2": {
+        "element_type": "text",
+        "button_text": "TEST",
+        "size_height": 50,
+        "size_width": 50,
+        "visible": "True"
+    }
+}
